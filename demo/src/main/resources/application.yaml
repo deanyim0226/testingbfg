@@ -4,4 +4,4 @@ spring:
 
 azure:
   storage:
-    ***REMOVED***: ***REMOVED***
+    connection-string: ${EVENTHUB_CONNECTION_STRING}

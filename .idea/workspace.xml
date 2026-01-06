@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list ***REMOVED***="true" id="ca718d68-dfb9-4a15-9712-617e411d0975" name="Changes" comment="">
+    <list default="true" id="ca718d68-dfb9-4a15-9712-617e411d0975" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration ***REMOVED***="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
       <option name="appServicePlanResourceGroup" />
@@ -83,15 +83,15 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" ***REMOVED***Dictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="***REMOVED***" summary="***REMOVED*** task">
+    <task active="true" id="Default" summary="Default task">
       <changelist id="ca718d68-dfb9-4a15-9712-617e411d0975" name="Changes" comment="" />
       <created>1767664280421</created>
-      <option name="number" value="***REMOVED***" />
-      <option name="presentableId" value="***REMOVED***" />
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1767664280421</updated>
-      <workItem from="1767664281754" duration="710000" />
+      <workItem from="1767664281754" duration="2425000" />
     </task>
     <servers />
   </component>
